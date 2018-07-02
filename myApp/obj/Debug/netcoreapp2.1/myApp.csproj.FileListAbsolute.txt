@@ -1,0 +1,11 @@
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\bin\Debug\netcoreapp2.1\myApp.deps.json
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\bin\Debug\netcoreapp2.1\myApp.dll
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\bin\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.dll
+C:\Users\evanh\Documents\Coding Dojo\C#\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
